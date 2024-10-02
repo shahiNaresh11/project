@@ -1,0 +1,14 @@
+
+.main{
+    height: 100vh;
+    margin: 0;        /* Remove default margin */
+    display: flex;    /* Use flexbox */
+    align-items: center; /* Center vertically */
+    justify-content: center;
+}
+.myForm {
+    height: 500px; /* Added 'px' */
+    width: 400px;  /* Added 'px' */
+  background-color: #e1e1e2;
+    gap: 30px;
+}
